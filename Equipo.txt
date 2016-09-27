@@ -1,0 +1,4 @@
+Proyecto 2 -Factorial de un Número en Python con Recursividad-
+
+Acevedo Sanabria Raúl Ivanov
+Morales Ramírez Jean Carlo
