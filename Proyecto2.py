@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: latin-1 -*-
+
 def Fact(rec=1):
 	Num = input("Ingresa el numero a calcular: ")
 	if Num 
