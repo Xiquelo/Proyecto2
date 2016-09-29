@@ -1,9 +1,21 @@
 #!/usr/bin/env python
-# -*- coding: latin-1 -*-
+# -*- coding: UTF-8 -*-
 
-def Fact(rec=1):
-	Num = input("Ingresa el numero a calcular: ")
-	if Num 
+def factorial(rec=0):
+	if (m!=0 or m!=1):
+		if rec < m:
+			result = n * (n-1)
+			rec += 1
+			n -= 1
+			factorial(rec)
+		else:
+			print result("El resultado es: ")
+	else:
+		print 1("El resultado es: ")
+
 
 print "Bienvenido a tu calculadora de Factoriales"
-print "Ingresa el numero a calcular"
+n = input("Ingresa el número a calcular: ")
+m = n
+
+factorial()
