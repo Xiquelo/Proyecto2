@@ -9,9 +9,9 @@ def factorial(rec=0):
 			n -= 1
 			factorial(rec)
 		else:
-			print result("El resultado es: ")
+			print result
 	else:
-		print 1("El resultado es: ")
+		print 1
 
 
 print "Bienvenido a tu calculadora de Factoriales"
